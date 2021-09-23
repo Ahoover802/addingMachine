@@ -1,0 +1,29 @@
+input
+{
+  display: inline-block;
+  background-color: #4040a1;
+  height: 45px;
+  width: 45px;
+  font-size: auto;
+}
+input:hover
+{
+  background-color:#36486b;
+  height:42px;
+  width:42px;
+  font-size: auto
+}
+input:onclick
+{
+  height:38px;
+  width:38px;
+  font-size: auto;
+}
+body
+{
+  background-color: #618685;
+}
+td
+{
+  padding: 5px;
+}
